@@ -1,5 +1,5 @@
-.p-profile{
-    /* background: url(My_pic.); */
+.p-profile img{
+    background: url(/My_pic.jpg);
     /* background-image: url(/My_pic.jpg); */
     width: 40%;
     height: 400px;
